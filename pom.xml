@@ -4,7 +4,7 @@
 
     <groupId>com.github.rubens1287</groupId>
     <artifactId>OSSRH-49857</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
 
     <name>${project.groupId}:${project.artifactId}</name>
@@ -88,6 +88,7 @@
         <connection>scm:git:git://github.com:rubens1287/OSSRH-49857.git</connection>
         <developerConnection>scm:git:git@github.com:rubens1287/OSSRH-49857.git</developerConnection>
         <url>https://github.com/rubens1287/OSSRH-49857/tree/master</url>
+        <tag></tag>
     </scm>
 
 

@@ -1,3 +1,4 @@
+import br.com.gft.Encrypt;
 import org.junit.Assert;
 import org.junit.Test;
 
